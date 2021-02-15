@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+label,input,button{
+    margin-top: 5px;
+    height: 35px;
+}
